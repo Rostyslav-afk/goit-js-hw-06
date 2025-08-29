@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #34A6F4;
+    font-family: cursive;
+}
+
+#numberInput {
+    padding: 10px;
+    background: #2B7FFF;
+    border: 2px solid #000;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+#numberInput ::placeholder {
+    color: #fff;
+}
+
+#calcBtn {
+    color: #fff;
+    padding: 12px;
+    background: #432DD7;
+    border: 2px solid #000;
+    border-radius: 2px;
+}
+
+#result {
+    color: #34A6F4;
+    font-family: cursive;
+}
